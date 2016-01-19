@@ -101,7 +101,7 @@
       },
       "type": "Feature",
       "properties": {
-        "name": "\u53cc\u7bad\u96c6\u56e2"
+        "name": "双箭集团"
       }
     },
     {
@@ -159,7 +159,7 @@
       },
       "type": "Feature",
       "properties": {
-        "name": "\u65b0\u9e23\u51e4\u96c6\u56e2"
+        "name": "新鸣凤集团"
       }
     },
     {
@@ -197,7 +197,7 @@
       },
       "type": "Feature",
       "properties": {
-        "name": "\u6052\u6cf0\u7eb8\u4e1a"
+        "name": "恒泰纸业"
       }
     },
     {
@@ -235,7 +235,7 @@
       },
       "type": "Feature",
       "properties": {
-        "name": "\u6850\u6606\u96c6\u56e2"
+        "name": "桐昆集团"
       }
     },
     {
@@ -273,7 +273,7 @@
       },
       "type": "Feature",
       "properties": {
-        "name": "\u4eac\u9a6c\u7535\u673a"
+        "name": "京马电机"
       }
     },
     {
@@ -331,7 +331,7 @@
       },
       "type": "Feature",
       "properties": {
-        "name": "\u6c38\u53d1\u7535\u5b50"
+        "name": "永发电子"
       }
     },
     {
@@ -419,7 +419,7 @@
       },
       "type": "Feature",
       "properties": {
-        "name": "\u4e8c\u671f20MW"
+        "name": "二期20MW"
       }
     }
   ]

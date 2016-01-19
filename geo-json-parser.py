@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*
+import io
 import json
 
 from lbs_helper import LbsHelper
@@ -10,7 +11,7 @@ with open('zhouquan_wgs84.json') as data_file:
     print('total {0} features'.format(len(features)))
     for feature in features:
         coordinates = feature.get('geometry').get('coordinates')[0]
-        print('total {0} coordinates'.format(len(coordinates)))
+        print('{0} has {1} coordinates'.format(feature.get('properties').get('name').encode('utf-8'), len(coordinates)))
         coordinates_new = []
         for coordinate in coordinates:
             lng = coordinate[0]
@@ -23,5 +24,6 @@ with open('zhouquan_wgs84.json') as data_file:
             # print('new coordinate: {0}'.format(coordinate))
             # data = f.read()
         feature.get('geometry').get('coordinates')[0] = coordinates_new
-    with open('zhouquan_gcj.json', 'w') as outfile:
-        json.dump(data_wgs84, outfile)
+    with io.open('zhouquan_gcj02.json', 'w', encoding='utf8') as outfile:
+        data_write = json.dumps(data_wgs84, ensure_ascii=False)
+        outfile.write(unicode(data_write))
