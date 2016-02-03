@@ -134,7 +134,28 @@ class LbsHelper(object):
         gps_gcj02 = LbsHelper.bd09_to_gcj02(bd_lat, bd_lng)
         return LbsHelper.gcj02_to_wgs84(gps_gcj02.lat, gps_gcj02.lng)
 
+    @staticmethod
+    def convert_geojson_coordinate(coordinate, convert_method):
+        """
+        将GEOJSON的坐标点进行转换
+        :param coordinate:
+        :param convert_method:
+        :return:
+        """
+        lng = coordinate[0]
+        lat = coordinate[1]
+        alt = coordinate[2]
+        # print('old coordinate: {0}'.format(coordinate))
+        if convert_method == 'wgs84_to_gcj02':
+            gps_gcj = LbsHelper.wgs84_to_gcj02(lat, lng)
+            return [gps_gcj.lng, gps_gcj.lat, alt]
+        elif convert_method == 'gcj02_to_wgs84':
+            gps_wgs = LbsHelper.gcj02_to_wgs84(lat, lng)
+            return [gps_wgs.lng, gps_wgs.lat, alt]
+        else:
+            raise Exception('Not matched convert method')
+            # return [coordinate.lng, coordinate.lat, coordinate.alt]
 
 if __name__ == "__main__":
-    gps_wgs = Gps(30.58169, 120.34104)
-    print LbsHelper.wgs84_to_gcj02(gps_wgs.lat, gps_wgs.lng)
+    gps_wgs_test = Gps(30.58169, 120.34104)
+    print LbsHelper.wgs84_to_gcj02(gps_wgs_test.lat, gps_wgs_test.lng)

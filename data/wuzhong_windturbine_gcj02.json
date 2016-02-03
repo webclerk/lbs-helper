@@ -1,0 +1,2600 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.32698738588425,
+          37.61881098572736,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "100#风机所在地",
+        "description": "37.61882,106.32700"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.43193976263218,
+          37.63713122265098,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "29#风机所在地",
+        "description": "37.63944,106.42962"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.41545607861627,
+          37.65236453427453,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "17#风机所在地",
+        "description": "37.65240,106.41623"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.42572247178468,
+          37.646389636788996,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "21#风机所在地",
+        "description": "37.64506,106.42589"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.41985138914423,
+          37.64691706349666,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "20#风机所在地",
+        "description": "37.64598,106.41852"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.34125798757279,
+          37.66477152442404,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "109#风机所在地",
+        "description": "37.66478,106.34127"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.43303837731956,
+          37.63038651264831,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "149#风机所在地",
+        "description": "37.63021,106.43389"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.43030105670202,
+          37.61349750925433,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "153#风机所在地",
+        "description": "37.61206,106.43394"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.38753370399554,
+          37.59930657426779,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "56#风机所在地",
+        "description": "37.59931,106.38754"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.39766668058321,
+          37.615898923335116,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "44#风机所在地",
+        "description": "37.61590,106.39767"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.40775887763262,
+          37.61440075468991,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "45#风机所在地",
+        "description": "37.61440,106.40776"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.40939921243407,
+          37.6355807077391,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "31#风机所在地",
+        "description": "37.63558,106.40940"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.41133014296611,
+          37.62992120412498,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "33#风机所在地",
+        "description": "37.62992,106.41133"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.39681581137255,
+          37.62646814109336,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "40#风机所在地",
+        "description": "37.62647,106.39682"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.4039777485877,
+          37.62149996241773,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "41#风机所在地",
+        "description": "37.62150,106.40398"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.40802892106949,
+          37.67193034904034,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "1#风机所在地",
+        "description": "37.67193,106.40803"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.40957929946997,
+          37.659281222922466,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "10#风机所在地",
+        "description": "37.65928,106.40958"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.41501076522394,
+          37.669352006372115,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "2#风机所在地",
+        "description": "37.66935,106.41501"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.42095123377969,
+          37.670340627626146,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "3#风机所在地",
+        "description": "37.66921,106.41763"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.43140602616823,
+          37.67023351147629,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "4#风机所在地",
+        "description": "37.66882,106.42169"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.39494604029248,
+          37.662148184948656,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "5#风机所在地",
+        "description": "37.66215,106.39495"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.40324815219871,
+          37.666020053976645,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "6#风机所在地",
+        "description": "37.66602,106.40325"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.40949887949247,
+          37.666261261347074,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "7#风机所在地",
+        "description": "37.66626,106.40950"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.4010175857693,
+          37.653279469513606,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "8#风机所在地",
+        "description": "37.65328,106.40102"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.40582876977929,
+          37.65725029720374,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "9#风机所在地",
+        "description": "37.65725,106.40583"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.41383015835339,
+          37.662211382829064,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "11#风机所在地",
+        "description": "37.66221,106.41383"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.42001621651335,
+          37.662926586977306,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "12#风机所在地",
+        "description": "37.66279,106.41669"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.42715990835661,
+          37.6638808272631,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "13#风机所在地",
+        "description": "37.66320,106.42424"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.42981950602805,
+          37.65915375533948,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "14#风机所在地",
+        "description": "37.66031,106.42437"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.41200972794401,
+          37.64720164218422,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "19#风机所在地",
+        "description": "37.64720,106.41201"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.41003907877261,
+          37.643780896041854,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "23#风机所在地",
+        "description": "37.64378,106.41004"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.41551044747195,
+          37.642752499132605,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "24#风机所在地",
+        "description": "37.64275,106.41551"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.40065758223221,
+          37.64464919380818,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "22#风机所在地",
+        "description": "37.64465,106.40066"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.38943469923416,
+          37.63961732519625,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "25#风机所在地",
+        "description": "37.63962,106.38944"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.39430553615574,
+          37.6407674693431,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "26#风机所在地",
+        "description": "37.64077,106.39431"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.40496793935289,
+          37.640829894350865,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "27#风机所在地",
+        "description": "37.64083,106.40497"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.39922670994996,
+          37.635738472927656,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "30#风机所在地",
+        "description": "37.63574,106.39923"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.38930477662274,
+          37.63081690226861,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "35#风机所在地",
+        "description": "37.63082,106.38931"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.37928259889429,
+          37.63218572548313,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "34#风机所在地",
+        "description": "37.63219,106.37929"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3800124136589,
+          37.62697528722106,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "38#风机所在地",
+        "description": "37.62698,106.38002"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.38483302566053,
+          37.625275972951165,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "39#风机所在地",
+        "description": "37.62528,106.38484"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.38560982480384,
+          37.61643427853872,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "43#风机所在地",
+        "description": "37.62531,106.38480"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.41716189946902,
+          37.63391442589068,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "32#风机所在地",
+        "description": "37.63364,106.41686"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.42257575229783,
+          37.65053092335795,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "18#风机所在地",
+        "description": "37.64886,106.42536"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.42641386783492,
+          37.653918495441324,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "16#风机所在地",
+        "description": "37.65017,106.43224"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.42329432235624,
+          37.639094321015925,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "28#风机所在地",
+        "description": "37.63950,106.42149"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.39635589160821,
+          37.58580794138152,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "173#风机所在地",
+        "description": "37.58581,106.39636"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.41419057685634,
+          37.62053202457515,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "155#风机所在地",
+        "description": "37.62053,106.41419"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.41610095384287,
+          37.61434197625288,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "156#风机所在地",
+        "description": "37.61434,106.41610"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.42331984413593,
+          37.60927158096008,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "157#风机所在地",
+        "description": "37.60876,106.42128"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.4212536031402,
+          37.62602527329349,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "150#风机所在地",
+        "description": "37.62711,106.42093"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.43274480739538,
+          37.62606515201323,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "151#风机所在地",
+        "description": "37.62735,106.43334"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.42793590680368,
+          37.620543660817,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "152#风机所在地",
+        "description": "37.62120,106.42969"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.4261308253312,
+          37.60474353673291,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "158#风机所在地",
+        "description": "37.60604,106.42587"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.43509729110983,
+          37.60665075648156,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "154#风机所在地",
+        "description": "37.60726,106.43252"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.39392526496798,
+          37.59567762746417,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "172#风机所在地",
+        "description": "37.59568,106.39393"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.39655572152255,
+          37.60494870286809,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "168#风机所在地",
+        "description": "37.60495,106.39656"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.4011067674481,
+          37.59641963543714,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "169#风机所在地",
+        "description": "37.59642,106.40111"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.40663832028754,
+          37.58967980948538,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "170#风机所在地",
+        "description": "37.58968,106.40664"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.41428047982897,
+          37.58448217360694,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "171#风机所在地",
+        "description": "37.58448,106.41428"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.42359287486656,
+          37.584478261495136,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "167#风机所在地",
+        "description": "37.58424,106.41943"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.41733081530427,
+          37.59138266444225,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "166#风机所在地",
+        "description": "37.59138,106.41733"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.41334046580269,
+          37.59625155654171,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "165#风机所在地",
+        "description": "37.59625,106.41334"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.40590806033133,
+          37.6020298529235,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "164#风机所在地",
+        "description": "37.60203,106.40591"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.42329394175435,
+          37.59396538431159,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "162#风机所在地",
+        "description": "37.59427,106.42119"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.42836593942376,
+          37.58986175771917,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "163#风机所在地",
+        "description": "37.58962,106.42759"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.43527134275251,
+          37.59095033463374,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "161#风机所在地",
+        "description": "37.59064,106.43398"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.42261347508328,
+          37.59985136925455,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "160#风机所在地",
+        "description": "37.59920,106.42394"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.43188002667527,
+          37.59764673668483,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "159#风机所在地",
+        "description": "37.59863,106.42986"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.35010874151108,
+          37.58549189344793,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "148#风机所在地",
+        "description": "37.58550,106.35012"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3489582758556,
+          37.59168141387523,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "146#风机所在地",
+        "description": "37.59169,106.34897"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.34139803007491,
+          37.5894412205166,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "147#风机所在地",
+        "description": "37.58945,106.34141"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.331857351339,
+          37.59192128492665,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "145#风机所在地",
+        "description": "37.59193,106.33187"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.34089820277326,
+          37.595621838886785,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "143#风机所在地",
+        "description": "37.59563,106.34091"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.35323871307655,
+          37.59683248662763,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "144#风机所在地",
+        "description": "37.59684,106.35325"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.33174821183842,
+          37.60576121863992,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "137#风机所在地",
+        "description": "37.60577,106.33176"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.34245783984657,
+          37.600891211821,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "141#风机所在地",
+        "description": "37.60090,106.34247"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.35667867051271,
+          37.6011427543806,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "142#风机所在地",
+        "description": "37.60115,106.35669"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.34864854502085,
+          37.60446192134433,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "140#风机所在地",
+        "description": "37.60447,106.34866"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.33897803463667,
+          37.60777116432179,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "138#风机所在地",
+        "description": "37.60778,106.33899"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.34597803092417,
+          37.610481468728395,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "136#风机所在地",
+        "description": "37.61049,106.34599"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.35995918325808,
+          37.60778269054874,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "139#风机所在地",
+        "description": "37.60779,106.35997"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.32911768990782,
+          37.613251707109505,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "135#风机所在地",
+        "description": "37.61326,106.32913"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.34457784302457,
+          37.616771278871745,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "132#风机所在地",
+        "description": "37.61678,106.34459"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.35543880971902,
+          37.615432655957264,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "133#风机所在地",
+        "description": "37.61544,106.35545"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.36426983221713,
+          37.615072973211404,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "134#风机所在地",
+        "description": "37.61508,106.36428"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.33578753382588,
+          37.621610953319006,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "129#风机所在地",
+        "description": "37.62162,106.33580"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.34909833694465,
+          37.62366195084943,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "130#风机所在地",
+        "description": "37.62367,106.34911"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.35766874964216,
+          37.62067273142853,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "131#风机所在地",
+        "description": "37.62068,106.35768"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.32400805345382,
+          37.62702177153406,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "126#风机所在地",
+        "description": "37.62703,106.32402"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.40002244980747,
+          37.674259350766086,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "71#风机所在地",
+        "description": "37.67944,106.39863"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.39418593506859,
+          37.6701877830277,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "70#风机所在地",
+        "description": "37.67019,106.39419"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3893139494622,
+          37.66768665778049,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "76#风机所在地",
+        "description": "37.66769,106.38932"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.38207321333921,
+          37.666275345640685,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "75#风机所在地",
+        "description": "37.66628,106.38208"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.37861191348485,
+          37.67303564723134,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "69#风机所在地",
+        "description": "37.67304,106.37862"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.37463113434781,
+          37.666907365088974,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "74#风机所在地",
+        "description": "37.66731,106.36632"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.36605176131704,
+          37.66723532429169,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "73#风机所在地",
+        "description": "37.66731,106.36632"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.35941878311102,
+          37.66547286236697,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "72#风机所在地",
+        "description": "37.66548,106.35943"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.36389196789729,
+          37.659738537454146,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "77#风机所在地",
+        "description": "37.66548,106.35943"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.37278083578177,
+          37.660164588079915,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "78#风机所在地",
+        "description": "37.66017,106.37279"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.37982268468956,
+          37.65735495692112,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "79#风机所在地",
+        "description": "37.65736,106.37983"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.38693397204706,
+          37.65894676404338,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "80#风机所在地",
+        "description": "37.65895,106.38694"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.35774879635063,
+          37.65432302073911,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "81#风机所在地",
+        "description": "37.65433,106.35776"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.36835000062159,
+          37.65231345371479,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "82#风机所在地",
+        "description": "37.65232,106.36836"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3775822521016,
+          37.651765380008555,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "83#风机所在地",
+        "description": "37.65177,106.37759"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.38709440511137,
+          37.649696765421666,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "84#风机所在地",
+        "description": "37.64970,106.38710"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.39247554441782,
+          37.65276768946509,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "85#风机所在地",
+        "description": "37.65277,106.39248"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.35173826141748,
+          37.648562570807684,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "86#风机所在地",
+        "description": "37.64857,106.35175"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.36113921108955,
+          37.64589340138571,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "87#风机所在地",
+        "description": "37.64590,106.36115"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.36867020662204,
+          37.646693797237425,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "88#风机所在地",
+        "description": "37.64670,106.36868"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.38295289098446,
+          37.64599597012917,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "89#风机所在地",
+        "description": "37.64600,106.38296"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.34834814323072,
+          37.64457139412382,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "90#风机所在地",
+        "description": "37.64458,106.34836"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.38011286356011,
+          37.64193496469668,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "91#风机所在地",
+        "description": "37.64194,106.38012"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.37345147925866,
+          37.64042408038205,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "94#风机所在地",
+        "description": "37.64043,106.37346"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.36074978618142,
+          37.63993261198491,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "93#风机所在地",
+        "description": "37.63994,106.36076"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.35341876293583,
+          37.6393622824275,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "92#风机所在地",
+        "description": "37.63937,106.35343"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.34915844963544,
+          37.63499156090276,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "95#风机所在地",
+        "description": "37.63500,106.34917"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.35757873765594,
+          37.63493223955959,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "96#风机所在地",
+        "description": "37.63494,106.35759"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.36837054905315,
+          37.634744008450845,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "97#风机所在地",
+        "description": "37.63475,106.36838"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.36280992345102,
+          37.631943587606,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "98#风机所在地",
+        "description": "37.63195,106.36282"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.35646931183003,
+          37.67384291990257,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "66#风机所在地",
+        "description": "37.67385,106.35648"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.36249978281921,
+          37.67404276518366,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "67#风机所在地",
+        "description": "37.67405,106.36251"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.36965063474852,
+          37.67430436086551,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "68#风机所在地",
+        "description": "37.67431,106.36966"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.34022951590416,
+          37.638674537077755,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "123#风机所在地",
+        "description": "37.64142,106.33213"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.31675210059157,
+          37.64965796546713,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "118#风机所在地",
+        "description": "37.64953,106.31642"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.33252797496874,
+          37.649231735764964,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "119#风机所在地",
+        "description": "37.64924,106.33254"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.33986752756324,
+          37.64450162252657,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "122#风机所在地",
+        "description": "37.64451,106.33988"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.34029822076529,
+          37.650791575100186,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "117#风机所在地",
+        "description": "37.65080,106.34031"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.32389785129546,
+          37.65209135826319,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "116#风机所在地",
+        "description": "37.65210,106.32391"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.32939945489952,
+          37.655087249784465,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "114#风机所在地",
+        "description": "37.65569,106.32939"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.34793795108028,
+          37.65502185027957,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "115#风机所在地",
+        "description": "37.65503,106.34795"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.33153785581435,
+          37.64179285930465,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "121#风机所在地",
+        "description": "37.64154,106.33140"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.4017173370121,
+          37.60975981931986,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "49#风机所在地",
+        "description": "37.60976,106.40172"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.34687836679701,
+          37.66926198100691,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "108#风机所在地",
+        "description": "37.66927,106.34689"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3079390353848,
+          37.665622753185474,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "99#风机所在地",
+        "description": "37.66563,106.30795"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.31509336110811,
+          37.67045391609978,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "105#风机所在地",
+        "description": "37.66784,106.31162"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.32139929107734,
+          37.67008057945843,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "106#风机所在地",
+        "description": "37.67044,106.32310"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.32806210305135,
+          37.6691345648553,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "107#风机所在地",
+        "description": "37.67045,106.32780"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.32145832224907,
+          37.675761844989005,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "101#风机所在地",
+        "description": "37.67577,106.32147"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.32834104525539,
+          37.67613034408382,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "102#风机所在地",
+        "description": "37.67506,106.32838"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.34925444712265,
+          37.67461117030844,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "104#风机所在地",
+        "description": "37.67450,106.34932"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.34040152550577,
+          37.67603975300965,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "103#风机所在地",
+        "description": "37.67598,106.34043"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.4134905615196,
+          37.608921504530045,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "50#风机所在地",
+        "description": "37.60892,106.41349"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.33105790402597,
+          37.660341071644204,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "111#风机所在地",
+        "description": "37.66035,106.33107"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.31921818003102,
+          37.66105172659263,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "110#风机所在地",
+        "description": "37.66106,106.31923"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.31100879726573,
+          37.65653195261471,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "113#风机所在地",
+        "description": "37.65654,106.31102"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.35096112160694,
+          37.661057957682374,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "112#风机所在地",
+        "description": "37.65503,106.34795"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.35775932199738,
+          37.589372541145096,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "61#风机所在地",
+        "description": "37.58938,106.35777"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.36748072347879,
+          37.60054371540049,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "54#风机所在地",
+        "description": "37.60055,106.36749"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.36868044718018,
+          37.62576406056182,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "36#风机所在地",
+        "description": "37.62577,106.36869"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.37552202036841,
+          37.623404965765594,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "37#风机所在地",
+        "description": "37.62341,106.37553"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.37930234388888,
+          37.61708498896877,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "42#风机所在地",
+        "description": "37.61709,106.37931"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.38256321465039,
+          37.610265946673614,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "47#风机所在地",
+        "description": "37.61027,106.38257"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.37544189528911,
+          37.6119841961396,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "46#风机所在地",
+        "description": "37.61199,106.37545"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.37243152772565,
+          37.60606397329542,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "51#风机所在地",
+        "description": "37.60607,106.37244"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.363800022328,
+          37.59454271171951,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "59#风机所在地",
+        "description": "37.59455,106.36381"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.36513021884129,
+          37.58498283508371,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "63#风机所在地",
+        "description": "37.58499,106.36514"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.37028059540725,
+          37.58790354274501,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "62#风机所在地",
+        "description": "37.58791,106.37029"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.37372186950428,
+          37.59182446366959,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "60#风机所在地",
+        "description": "37.59183,106.37373"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.37505199883871,
+          37.598414705710844,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "55#风机所在地",
+        "description": "37.59842,106.37506"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.38028277881749,
+          37.602425037759616,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "53#风机所在地",
+        "description": "37.60243,106.38029"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.38543320884959,
+          37.60525626872781,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "52#风机所在地",
+        "description": "37.60526,106.38544"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.38946408580561,
+          37.60865677002592,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "48#风机所在地",
+        "description": "37.60866,106.38947"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.37912228017828,
+          37.58484520935234,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "64#风机所在地",
+        "description": "37.58485,106.37913"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.38797404641161,
+          37.584546571756995,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "65#风机所在地",
+        "description": "37.58455,106.38798"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.38170240667863,
+          37.59372578399198,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "57#风机所在地",
+        "description": "37.59373,106.38171"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.38792453110335,
+          37.59100715957703,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "58#风机所在地",
+        "description": "37.59101,106.38793"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.41889674357499,
+          37.657191660186825,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "15#风机所在地",
+        "description": "37.65345,106.42046"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.33143724284545,
+          37.62819096025747,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "127#风机所在地",
+        "description": "37.62820,106.33145"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.34216742036384,
+          37.62896141315483,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "128#风机所在地",
+        "description": "37.62897,106.34218"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.32097848463096,
+          37.63303135464087,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "124#风机所在地",
+        "description": "37.63304,106.32099"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.3308481258177,
+          37.63399107715445,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "125#风机所在地",
+        "description": "37.63400,106.33086"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.31917859632948,
+          37.643301361360294,
+          0
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "name": "120#风机所在地",
+        "description": "37.64331,106.31919"
+      }
+    }
+  ]
+}
