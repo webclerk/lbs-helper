@@ -1,0 +1,11 @@
+[app]
+secret_key = "12345678"
+log_level = "debug"
+
+[baidu]
+ak = "u28llcVb5qRvmd8z8XeNQ3XpgLhhb8kC"
+center_lng = 116.404
+center_lat = 39.915
+offset_lng = 0.0111
+offset_lat = 0.003
+zoom = 16

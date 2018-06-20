@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <link rel="shortcut icon" href="{{ url_for('static', filename='img/favicon.ico') }}"/>
+    <title>位置确定</title>
+    <style type="text/css">
+        body, html, #map-container {
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+            margin: 0;
+        }
+    </style>
+
+</head>
+<body>
+<div id="map-container"></div>
+
+</body>
+<script type="application/javascript"
+        src="{{ url_for('static', filename='js/jquery.min.js') }}"></script>
+<script type="text/javascript">
+
+    function loadScript() {
+        var script = document.createElement("script");
+        script.src = "https://api.map.baidu.com/api?v=3.0&s=1&ak={{config['baidu']['ak']}}&callback=initMap";
+        document.body.appendChild(script);
+    }
+
+    window.onload = loadScript;
+
+    function getCenterPoint(pointList) {
+        var x = 0.0;
+        var y = 0.0;
+        for (var i = 0; i < pointList.length; i++) {
+            x = x + parseFloat(pointList[i].lng * 10000.0);
+            y = y + parseFloat(pointList[i].lat * 10000.0);
+        }
+        x = x / pointList.length;
+        y = y / pointList.length;
+        var result = new BMap.Point(x / 10000.0, y / 10000.0);
+        return result;
+    };
+
+    function renderMap(offset_lng,offset_lat) {
+        $.ajax({
+            type: "GET",
+            url: "/static/data/quzhou.json",
+            dataType: 'json',
+            success: function (data) {
+                $.each(data.features, function (fidx, featureData) {
+                    var markerName = featureData.properties.name;
+                    var points = [];
+                    $.each(featureData.geometry.coordinates[0], function (cidx, coordinateData) {
+                        var point_lng=offset_lng+coordinateData[0];
+                        var point_lat=offset_lat+coordinateData[1];
+                        points.push(new BMap.Point(point_lng, point_lat));
+                    });
+                    var polygon = new BMap.Polygon(points, {
+                        fillColor: '#64b6e7',
+                        fillOpacity: 0.9,
+                        strokeColor: '#fff',
+                        strokeOpacity: 0.8,
+                        strokeWeight: 1
+                    });
+                    window.map.addOverlay(polygon);
+                    var iconPoint = getCenterPoint(points);
+                    map.centerAndZoom(iconPoint, 17);
+                    // map.centerAndZoom(iconPoint, {{ config['baidu']['zoom'] }});
+                    //addMarker(iconPoint, markerName);
+                })
+            }
+        });
+    }
+
+    var initMap = function () {
+        var map = new BMap.Map("map-container", {mapType: BMAP_HYBRID_MAP});
+        // var point = new BMap.Point( );
+        // var point = new BMap.Point(
+        //     {{ config['baidu']['center_lng']}},
+        //     {{ config['baidu']['center_lat'] }});
+        // map.centerAndZoom(point, 15);
+        map.addControl(new BMap.NavigationControl());
+        map.addControl(new BMap.ScaleControl());
+        map.addControl(new BMap.OverviewMapControl());
+        map.addControl(new BMap.MapTypeControl());
+        var mapStyle={  style : "mapbox" };
+        map.setMapStyle(mapStyle);
+        map.enableScrollWheelZoom(true);
+        window.map = map;//将map变量存储在全局
+        renderMap(0.01136,0.00332);
+        // renderMap({{ config['baidu']['offset_lng'] }},{{ config['baidu']['offset_lat']}});
+    };
+</script>
+</html>
