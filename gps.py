@@ -13,5 +13,4 @@ class Gps(object):
 
 if __name__ == "__main__":
     gps = Gps(30.58169, 120.34104)
-    print gps
-
+    print(gps)
